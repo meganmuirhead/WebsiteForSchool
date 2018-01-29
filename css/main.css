@@ -1,26 +1,31 @@
 .navagation {
     overflow: hidden;
-    background-color: #333;
+    background-color: floralwhite;
+
 }
 .navagation a {
     float: left;
-    color: #f2f2f2;
+    color: #333333;
     text-align: center;
     padding: 12px 12px;
     text-decoration: none;
     font-size: 12px;
 }
 .navagation a:hover {
-    background-color: yellow;
+    background-color: #f2f2f2;
     color: black;
 }
 .navagation a.active {
-    background-color: purple;
+    background-color: lightcyan;
     color: white;
 }
 .title{
     color: #333333;
 }
 body {
-    background-color: lightcyan;
+    background-color: aliceblue;
+}
+#logo {
+    width:114px;
+    height: 116px;
 }
