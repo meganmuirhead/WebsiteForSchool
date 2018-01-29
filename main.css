@@ -6,15 +6,21 @@
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 12px 12px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 12px;
 }
 .navagation a:hover {
-    background-color: #ddd;
+    background-color: yellow;
     color: black;
 }
 .navagation a.active {
-    background-color: #4CAF50;
+    background-color: purple;
     color: white;
+}
+.title{
+    color: #333333;
+}
+body {
+    background-color: lightcyan;
 }
