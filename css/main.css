@@ -1,5 +1,5 @@
 body, html{
-    background-color #f2f2f2 ;
+    background-color: #007A7F;
     margin: 0px;
     padding: 0px;
     width: 100%;
@@ -23,19 +23,19 @@ body{
     justify-content: space-between;
     padding: 20px;
     overflow: hidden;
-    background-color: #fafff3;
+    background-color: #00B7BF;
 
 }
 .navagation a {
     float: left;
-    color: #333333;
+    color: #003D40;
     text-align: center;
     padding: 12px 12px;
     text-decoration: none;
     font-size: 12px;
 }
 .navagation a:hover {
-    background-color: #f2f2f2;
+    background-color: #00F4FF;
     color: black;
 }
 .navagation a.active {
